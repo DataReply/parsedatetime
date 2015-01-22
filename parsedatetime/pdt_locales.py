@@ -440,6 +440,7 @@ class pdtLocale_de(pdtLocale_base):
         self.Modifiers['vergangener'] = -1
         self.Modifiers['vorheriger']  = -1
         self.Modifiers['vor']         = -1
+        self.Modifiers['etwa']        =  0
         self.Modifiers['prev']        = -1
         self.Modifiers['letzter']     = -1
         self.Modifiers['n\xe4chster'] =  1
